@@ -6,7 +6,7 @@ Welcome to the Zeus SMART hack-a-thon. Today you'll be working with a Zeus engin
 
 1. Go to this page and sign up for a free github account: https://github.com/join
 2. Fork the starter repository found here: https://github.com/raynor/Zeus-SMART-boilerplate
-3. Clone the repository to your local machine, for a cheat sheet of git commands, see docs/git-help.md
+3. Clone the repository to your local machine, for a cheat sheet of git commands, see https://rogerdudler.github.io/git-guide/
 
 We've prepared two different tracks for you to choose depending on what you find more interesting. In the website track you'll design and build a simple webpage that we'll show you how to publish online. In the games track you'll build off of a starter kit for a game hangman or tic-tac-toe, learning how to customize it and make things move on the web. If you need help deciding, taking a look through each track's instructions may be helpful.
 
