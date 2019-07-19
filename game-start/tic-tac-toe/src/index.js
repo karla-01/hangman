@@ -65,7 +65,11 @@ $(document).click((event) => {
     // Check if the square has no value
     let index = +target.dataset.index;
     if (squares[index] || checkWinner()) return;
-    squares[index] = xIsNext ? "X" : "O";
+    if (xIsNext) {
+      squares[index] = 'X';
+    } else {
+      squares[index] = 'O';
+    }
     target.innerText = squares[index];
     xIsNext = !xIsNext;
     renderBoard();
