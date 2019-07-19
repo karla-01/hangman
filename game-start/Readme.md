@@ -6,7 +6,7 @@ Things to touch on before moving on:
 * What is a variable, how are they created
 * How functions work
 * How if statements can make different things happen
-* How to read info from HTML using jQuery
+* How to read info from HTML using jQuery (including what is an HTML id)
 * How to add stuff back to the page
 * How random() works
 * How the HTML is set up

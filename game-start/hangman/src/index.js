@@ -1,4 +1,6 @@
-document.addEventListener("DOMContentLoaded", function(event){
+const allLetters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+
+$(document).ready(function() {
   //////////////////////////////
   // Setup the game
   /////////////////////////////
@@ -52,7 +54,6 @@ document.addEventListener("DOMContentLoaded", function(event){
   // Check that guess is a letter
   /////////////////////////////
   function isLetter(guess) {
-    return guess.match(/[a-z]/i);
-    // return (65 <= guess.charCodeAt(0) <= 90) || (97 <= guess.charCodeAt(0) <= 122);
+    return allLetters.includes(guess);
   }
 });
