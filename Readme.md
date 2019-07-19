@@ -10,6 +10,10 @@ Welcome to the Zeus SMART hack-a-thon. Today you'll be working with a Zeus engin
 
 We've prepared two different tracks for you to choose depending on what you find more interesting. In the website track you'll design and build a simple webpage that we'll show you how to publish online. In the games track you'll build off of a starter kit for a game hangman or tic-tac-toe, learning how to customize it and make things move on the web. If you need help deciding, taking a look through each track's instructions may be helpful.
 
+## Work on a web game
+
+Open up the Readme.md in the game-start directory and follow along from there to get started.
+
 ## Build your own  website
 
 ### Design
